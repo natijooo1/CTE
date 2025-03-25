@@ -1,0 +1,39 @@
+**Nathan Yoseph**
+
+**Cybersecurity Enthusiast | Web Pentester | Developer**
+
+---
+
+### **About Me**
+I'm passionate about cybersecurity, web security, and ethical hacking. I enjoy working on bug bounties, learning about web vulnerabilities, and building secure applications.
+
+---
+
+
+
+### **Skills**
+- Web Security & Pentesting
+- SQL Injection & XSS
+- Burp Suite & Recon Techniques
+- Reverse Engineering
+- Linux Privilege Escalation
+- Active Directory Security
+
+---
+
+### **Hobbies**
+- Playing Football
+- Listening to Music
+- Exploring Tech & Cybersecurity Trends
+- Building & Experimenting with New Tools
+
+---
+
+### **Contact**
+- **Email:** your.email@example.com  
+- **GitHub:** [github.com/natijooo1](https://github.com/natijooo1)  
+
+---
+
+**&copy; 2025 Nathan Yoseph | Ethical Hacking & Cybersecurity**
+
